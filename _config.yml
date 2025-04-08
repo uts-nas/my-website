@@ -10,10 +10,10 @@
 ############################
 
 # Name of website
-title: My website
+title: My Blogs
 
 # Your name to show in the footer
-author: Some Person
+author: Utsav Sangroula
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -22,9 +22,7 @@ author: Some Person
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Author's home: "https://utsavsangroula.com"
 
 ################
 # --- Logo --- #
@@ -50,14 +48,10 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
+  email: "contact@utsavsangroula.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: "@daattali"
-  whatsapp: 15551212
+  facebook: utsangroula
+  twitter: utsangroula
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
 #  linkedin: daattali
@@ -102,7 +96,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "utsavsangroula.com"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
